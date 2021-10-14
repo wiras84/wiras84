@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my profile! 👋
+
+Hi! I'm Abraham
 
 <!--
 **wiras84/wiras84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
